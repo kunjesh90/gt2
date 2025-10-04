@@ -1,0 +1,13 @@
+# Core
+transformers==4.46.3
+accelerate==0.34.2
+peft==0.13.2
+torch>=2.3.0
+bitsandbytes==0.43.3
+trl==0.9.6
+datasets==2.21.0
+tokenizers==0.20.3
+
+# Utilities
+numpy>=1.26.0
+pydantic>=2.8.0
